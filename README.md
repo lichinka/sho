@@ -1,1 +1,1 @@
-A simulated annealing approach for the SHO balancing problem in 3G networks.- 
+A comparison of different stochastic optimization approaches for solving the SHO balancing problem in 3G networks.- 

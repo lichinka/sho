@@ -1,0 +1,4 @@
+cell rnc site sec maxpwr(rnc) zaresmoc(rbs) zaresmoc+kabel+asc pilot kabel pilot+kabel rbsid asc ret maxtilt tilt mechanical bazna sect antena pildbpa
+CGBRIA 11 CGBRI 1 401 397 425 272 26 300 5 1 1 80 20 0 RBS3202 S1C1 2 125
+CGBRIB 11 CGBRI 2 401 397 425 272 26 300 5 1 1 80 0 0 RBS3202 S2C1 2 125
+CGBRIC 11 CGBRI 3 401 397 425 272 26 300 5 1 1 80 10 0 RBS3202 S3C1 2 125

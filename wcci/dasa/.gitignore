@@ -1,0 +1,8 @@
+_dasa.o
+__pycache__/
+dasa
+*.o
+*.pyc
+history/
+scores/
+stats/
